@@ -1,4 +1,4 @@
-## Hi there 👋
+## Привет! Меня зовут Наталия 👋
 
 <!--
 **Natashe4qa/Natashe4qa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
