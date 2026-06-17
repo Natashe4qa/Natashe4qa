@@ -17,7 +17,7 @@
 ✔ Использовала ClickHouse, PySpark и Airflow для обработки данных и автоматизации аналитических процессов.
 
 
-## Стек технологий
+## 🛠️Стек технологий
 
 **Python**: Pandas, NumPy, SciPy, Statsmodels.
 
